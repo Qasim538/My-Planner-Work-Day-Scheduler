@@ -51,7 +51,7 @@ https://github.com/Qasim538
 
 # Preview
 
-![Alt text](/Assets/Images/planner-preview.png"Planner Preview")
+![Alt text](/Assets/images/planner-preview.png"Planner Preview")
 
 
 
